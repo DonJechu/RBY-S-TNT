@@ -5,20 +5,20 @@ A comprehensive Minecraft Datapack that expands the explosive arsenal of the gam
 
 ## 🚀 Key Features
 
-* **Diverse Explosive Arsenal:** Includes a variety of specialized explosives such as House TNT, MEGA TNT, Void TNT, and Meteor TNT[cite: 2].
-* **Survival Ready:** All explosives come with balanced crafting recipes using vanilla materials like obsidian, ender pearls, and pistons[cite: 2].
-* **Utility & Chaos:** Features both utility-focused explosives like **House TNT** (for quick structures) and high-power options like **4x TNT** or **Launch TNT**[cite: 2].
-* **Custom Projectiles:** Introduces throwable explosives such as **Dynamite** and **Bombs** for more dynamic combat[cite: 2].
+* **Diverse Explosive Arsenal:** Includes a variety of specialized explosives such as House TNT, MEGA TNT, Void TNT, and Meteor TNT.
+* **Survival Ready:** All explosives come with balanced crafting recipes using vanilla materials like obsidian, ender pearls, and pistons.
+* **Utility & Chaos:** Features both utility-focused explosives like **House TNT** (for quick structures) and high-power options like **4x TNT** or **Launch TNT**.
+* **Custom Projectiles:** Introduces throwable explosives such as **Dynamite** and **Bombs** for more dynamic combat.
 
 ## 🛠️ Crafting Guide
 
 | TNT Type | Notable Ingredients | Purpose |
 | :--- | :--- | :--- |
-| **House TNT** | Doors, Crafting Table, Logs [cite: 2] | Instant structure generation. |
-| **MEGA TNT** | TNT blocks, Dragon Head [cite: 2] | Massive blast radius. |
-| **Void TNT** | Obsidian, Wither Rose [cite: 2] | Targeted block deletion/void effects. |
-| **Launch TNT** | Ender Pearls, Piston [cite: 2] | Mobility or entity launching. |
-| **Meteors TNT** | Crying Obsidian [cite: 2] | Aerial bombardment. |
+| **House TNT** | Doors, Crafting Table, Logs  | Instant structure generation. |
+| **MEGA TNT** | TNT blocks, Dragon Head  | Massive blast radius. |
+| **Void TNT** | Obsidian, Wither Rose  | Targeted block deletion/void effects. |
+| **Launch TNT** | Ender Pearls, Piston  | Mobility or entity launching. |
+| **Meteors TNT** | Crying Obsidian  | Aerial bombardment. |
 
 ## 📋 Installation
 
